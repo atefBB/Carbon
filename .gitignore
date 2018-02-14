@@ -5,6 +5,5 @@
 .php_cs.cache
 vendor
 composer.phar
-composer.lock
 coverage.xml
 phpunit.xml
